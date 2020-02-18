@@ -18,14 +18,9 @@ body{
     font-weight: 400;
 }
 
-<<<<<<< HEAD
 .container__footer{
     background: yellowgreen;
     padding: 10px;
     color: white;
     font-size: 12px;
-=======
-.cabecera__img{
-    width: 80px;
->>>>>>> header
 }
