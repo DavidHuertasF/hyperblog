@@ -36,12 +36,16 @@ body{
 
  /* footer css */
 .container__footer{
-    background: rgb(104, 17, 17);
+    background: rgb(37, 172, 10);
     padding: 15px;
     color: white;
     font-size: 12px;
 }
 
 .cabecera__img{
-    width: 80px;
+    width: 70px;
+}
+
+.container__footer{
+    margin: 1px;
 }
