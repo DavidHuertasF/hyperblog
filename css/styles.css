@@ -20,8 +20,8 @@ body{
 }
 
 .container__footer{
-    background: yellowgreen;
-    padding: 10px;
+    background: rgb(11, 150, 155);
+    padding: 15px;
     color: white;
     font-size: 12px;
 }
