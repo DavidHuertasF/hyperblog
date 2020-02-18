@@ -2,10 +2,11 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(17, 53, 53);
+    background: black;
 }
 .container{
     margin:0px 10px 0px 10px;
-  
+  background: white;
     border: solid black 1px;
 }
 
@@ -17,9 +18,14 @@ body{
     font-weight: 400;
 }
 
+<<<<<<< HEAD
 .container__footer{
     background: yellowgreen;
     padding: 10px;
     color: white;
     font-size: 12px;
+=======
+.cabecera__img{
+    width: 80px;
+>>>>>>> header
 }
