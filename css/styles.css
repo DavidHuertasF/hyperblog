@@ -14,13 +14,13 @@ body{
 
 /* header css */
 .cabecera{
-    background-color: rgb(250, 4, 4);
+    background-color: rgb(66, 185, 11);
     color:white;
     padding: 25px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     vertical-align: middle;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
