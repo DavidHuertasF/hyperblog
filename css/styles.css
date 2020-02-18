@@ -4,11 +4,15 @@ body{
     color: rgb(17, 53, 53);
     background: black;
 }
+
+
 .container{
     margin:0px 10px 0px 10px;
     background: white;
 }
 
+
+/* header css */
 .cabecera{
     background-color: rgb(250, 4, 4);
     color:white;
@@ -19,6 +23,18 @@ body{
     font-size: 20px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+ /* footer css */
 .container__footer{
     background: rgb(104, 17, 17);
     padding: 15px;
