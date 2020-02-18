@@ -20,8 +20,13 @@ body{
 }
 
 .container__footer{
+<<<<<<< HEAD
     background: rgb(17, 123, 150);
     padding: 12px;
+=======
+    background: rgb(11, 150, 155);
+    padding: 15px;
+>>>>>>> header
     color: white;
     font-size: 12px;
 }
